@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/forgotpassword.js": "/forgotpassword.js",
+    "/login.js": "/login.js",
+    "/register.js": "/register.js",
+    "/resetpassword.js": "/resetpassword.js",
+    "/profile.js": "/profile.js",
+    "/vendors~login.js": "/vendors~login.js"
+}
